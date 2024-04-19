@@ -1,6 +1,8 @@
-# Hi! I'm Mel 🌙
+# Hi! I'm Melisa Encinas 🌙
 
-## I want to become a frontend development
+## Learning Frontend and Backend web development
+## I studied Criminology
+## I live in Comodoro Rivadavia, Chubut
 
 🍂Skills:
 
