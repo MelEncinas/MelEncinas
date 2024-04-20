@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 <h1 align="center">Hi, I'm Mel <img src="https://media.giphy.com/media/3ohhwmSDJmpHNCZi8M/giphy.gif?cid=790b7611oaa802ibdm60d65tyt5w7io82f081u6dliqtg9qt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50"> </h1> 
-<img width="250" align="right" src="https://media.giphy.com/media/6hOYAEC9AOJb4ciy9X/giphy.gif?cid=790b761136ngdgl2t6d92eo6il3l3p7lko4w52t2y4xrl9k9&ep=v1_gifs_search&rid=giphy.gif&ct=g"></img>
+<img width="270" align="right" src="https://media.giphy.com/media/6hOYAEC9AOJb4ciy9X/giphy.gif?cid=790b761136ngdgl2t6d92eo6il3l3p7lko4w52t2y4xrl9k9&ep=v1_gifs_search&rid=giphy.gif&ct=g"></img>
 <h2> About me  <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdub3NsYm1jdnN3Z3h1bzlldnppNGV3c3Fnb3I0N3N2ZXVjbHBqZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/z67mBV0zhGzDHYri1C/giphy.gif" width="80">
 </h2>
 <ul>
