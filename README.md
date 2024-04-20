@@ -1,7 +1,7 @@
 
-# Melisa Encinas <img src="https://media.giphy.com/media/3ohhwmSDJmpHNCZi8M/giphy.gif?cid=790b7611oaa802ibdm60d65tyt5w7io82f081u6dliqtg9qt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50">
+# Melisa Encinas <img align="right" src="https://media.giphy.com/media/3ohhwmSDJmpHNCZi8M/giphy.gif?cid=790b7611oaa802ibdm60d65tyt5w7io82f081u6dliqtg9qt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50">
 
-<h2> <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdub3NsYm1jdnN3Z3h1bzlldnppNGV3c3Fnb3I0N3N2ZXVjbHBqZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/z67mBV0zhGzDHYri1C/giphy.gif" width="80">About me  <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdub3NsYm1jdnN3Z3h1bzlldnppNGV3c3Fnb3I0N3N2ZXVjbHBqZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/z67mBV0zhGzDHYri1C/giphy.gif" width="80"> </h2>
+<h2 align="center"> About me  <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdub3NsYm1jdnN3Z3h1bzlldnppNGV3c3Fnb3I0N3N2ZXVjbHBqZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/z67mBV0zhGzDHYri1C/giphy.gif" width="80"> </h2>
 <h4> 💻 Learning Frontend and Backend web development </h4>
 <h4> 👩‍🎓 I studied Criminology </h4>
 <h4> 📍 I live in Comodoro Rivadavia, Chubut </h4>
@@ -18,8 +18,4 @@
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
-
----
-
-⭐️ From [@AnhellO](https://github.com/AnhellO)
 
