@@ -8,6 +8,9 @@
 </ul>
 
 <h2 align="center">Github stats :bar_chart:</h2>
+<h4 align="center"> Skills🍂 </h4>
+<h4 align="center"><img src="https://user-images.githubusercontent.com/112040379/200426905-a812a8fc-c875-4cf0-952e-3c142cf76dee.png">
+ </h4>
 
 <h4 align="center">Top langs</h4>
 
