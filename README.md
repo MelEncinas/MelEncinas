@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi, I'm Mel <img src="https://media.giphy.com/media/3ohhwmSDJmpHNCZi8M/giphy.gif?cid=790b7611oaa802ibdm60d65tyt5w7io82f081u6dliqtg9qt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50"> </h1> 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <h2> About me  <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWdub3NsYm1jdnN3Z3h1bzlldnppNGV3c3Fnb3I0N3N2ZXVjbHBqZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/z67mBV0zhGzDHYri1C/giphy.gif" width="80">
 </h2>
 <ul>
