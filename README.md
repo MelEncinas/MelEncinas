@@ -8,12 +8,22 @@
 </ul>
 
 <h2>Github stats :bar_chart:</h2>
-<h4 align="center"> Skills🍂 </h4>
-<h4 align="center"><img src="https://user-images.githubusercontent.com/112040379/200426905-a812a8fc-c875-4cf0-952e-3c142cf76dee.png">
- </h4>
 
-
-<h4 align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MelEncinas&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/> </h4> 
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img align="center" src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,js,mongodb,mysql,nodejs,react,vscode,&perline=14" />
+  </a>
+</p>
+<div> <h4 align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MelEncinas&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/> </h4> 
  <h4 align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MelEncinas&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/></h4> 
+</div>
+
 
 
